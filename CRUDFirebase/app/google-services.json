@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "197576050496",
+    "project_id": "crudfirebaseyulfa",
+    "storage_bucket": "crudfirebaseyulfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197576050496:android:19035388609f8037469ca5",
+        "android_client_info": {
+          "package_name": "com.yulfa.crudfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197576050496-eg9sv80fr3d43eoiqeisqik096bi6npn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6jhGFGfoZw2DoecC4-xey6Mc4dyjNVD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197576050496-eg9sv80fr3d43eoiqeisqik096bi6npn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
